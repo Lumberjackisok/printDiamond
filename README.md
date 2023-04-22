@@ -6,6 +6,7 @@ Print the lower half of the diamond by incrementing the iteration variable insid
 
 # In the process
 ![image](https://github.com/Lumberjackisok/printDiamond/blob/main/gadhty45sa.jpg)
+Really forget how I did it.
 
 # Core Code
 ```javascript
